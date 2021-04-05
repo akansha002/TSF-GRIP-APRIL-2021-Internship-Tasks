@@ -1,4 +1,4 @@
-# TSF-GRIP-TASK-2-PRDICTION-USING-UNSUPERVISED-ML
+# TSF-GRIP-TASK-2-Prediction-using-unsupervised-ML
 
 Data Science and Business Analytics Tasks.
 
