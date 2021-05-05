@@ -1,4 +1,4 @@
-# TSF-GRIP-TASK-2-Prediction-using-unsupervised-ML
+# The Sparks Foundation (GRIP) Internship tasks
 
 Data Science and Business Analytics Tasks.
 
